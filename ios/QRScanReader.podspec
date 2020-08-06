@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
-  s.name         = "QrCode"
+  s.name         = "QRScanReader"
   s.version      = "1.0.0"
-  s.summary      = "QrCode"
+  s.summary      = "QRScanReader"
   s.description  = <<-DESC
-                  QrCode
+                  QRScanReader
                    DESC
   s.homepage     = "https://github.com/trustee-wallet/react-native-qr-scanner"
   s.license      = "MIT"
